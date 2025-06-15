@@ -40,6 +40,10 @@ The Hangman Game is a classic word-guessing game developed in C# using Windows F
 - Windows Operating System
 - .NET 8.0 Runtime or higher
 
+## Project Test
+
+![image](https://github.com/user-attachments/assets/93fb2d48-a5b5-4d31-8ad8-c20f64221dc9)
+
 ## Contribution
 
 Contributions are welcome! To contribute:
