@@ -1,0 +1,16 @@
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.Forms.GameForm.resources
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\bin\Debug\net8.0-windows\HangmanGame.exe
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\bin\Debug\net8.0-windows\HangmanGame.deps.json
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\bin\Debug\net8.0-windows\HangmanGame.runtimeconfig.json
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\bin\Debug\net8.0-windows\HangmanGame.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\bin\Debug\net8.0-windows\HangmanGame.pdb
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\refint\HangmanGame.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.pdb
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\HangmanGame.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\HangmanGame\obj\Debug\net8.0-windows\ref\HangmanGame.dll
